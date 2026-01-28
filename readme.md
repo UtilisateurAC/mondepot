@@ -1,3 +1,3 @@
 # mondepot
 Dépôt pour le tp
-C'est un proejt d'apprentissage pour git
+C'est un proejt d'apprentissage pour git en BTS SIO 
